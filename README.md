@@ -15,7 +15,7 @@ This is a personal project built by [Ave Nurme](https://www.avenurme.dev).
 
 ### Project Description
 
-This was a small project at the Scrimba's Frontend Developer Career Path where I learned about working with API's.
+This was a small project I did when I first started working with API's. I'm implementing the fetch()-method here and requesting data from boredapi.com to generate random ideas for different activities.
 
 I'm implementing the fetch()-method here and requesting data from boredapi.com to generate random ideas for different activities.
 
