@@ -1,4 +1,4 @@
-# Activity Generator - small introductory API project at Scrimba
+# Activity Generator - small introductory API project
 
 This is a personal project built by [Ave Nurme](https://www.avenurme.dev).
 
