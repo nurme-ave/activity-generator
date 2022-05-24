@@ -13,7 +13,7 @@
   max-width: 1920px;
   min-height: 100vh;
   margin: 0 auto;
-  background: url('images/lightbulb.jpg');
+  background: url('../images/lightbulb.jpg');
   background-color: #0077b6;
   background-repeat: no-repeat;
   background-position: right 35% center;
